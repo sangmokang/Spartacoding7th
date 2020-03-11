@@ -1,0 +1,32 @@
+* {
+    font-family: 'Black Han Sans', sans-serif;
+}
+
+.mytitle {
+    color: white;
+    text-align: center;
+    background-image: url('https://fs.jtbc.joins.com/prog/drama/itaewonclass/Img/site/ProgInfo/20191227151711.jpg');
+    background-size: cover;
+    background-position: top;
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.mytitle h1 {
+    margin: 0;
+}
+
+.mytitle h5 {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
